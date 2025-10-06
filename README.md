@@ -1,4 +1,4 @@
-Lab-1 Manag Microsoft Entra ID Identities
+Lab-1 Manage Microsoft Entra ID Identities
 This lab demonstrates how to manage user identities and groups in Microsoft Entra ID (formerly Azure Active Directory).
 
 Task 1: Create and configure user accounts.
