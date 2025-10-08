@@ -18,7 +18,7 @@ Finalized group with both users added as members.
 
 Tools & Concepts Used 
 
-• Microsoft Entra ID 
+- Microsoft Entra ID 
 • User identity lifecycle (Member & Guest) 
 • Group and role-based access control (RBAC) 
 • Security groups and membership assignment
