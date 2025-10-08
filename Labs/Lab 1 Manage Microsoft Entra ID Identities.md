@@ -17,6 +17,7 @@ Finalized group with both users added as members.
 ![image alt](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/Lab-Picture-3.png?raw=true)
 
 Tools & Concepts Used 
+
 • Microsoft Entra ID 
 • User identity lifecycle (Member & Guest) 
 • Group and role-based access control (RBAC) 
