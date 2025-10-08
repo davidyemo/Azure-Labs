@@ -18,9 +18,6 @@ Finalized group with both users added as members.
 
 Tools & Concepts Used 
 
-- Microsoft Entra ID 
-• User identity lifecycle (Member & Guest) 
-• Group and role-based access control (RBAC) 
-• Security groups and membership assignment
+Microsoft Entra ID, User identity lifecycle (Member & Guest), Group and role-based access control (RBAC) and Security groups and membership assignment.
 
-✅ Outcome Successfully demonstrated user identity management and group control within Microsoft Entra ID. This type of configuration is crucial for secure role assignments and access control across Microsoft 365 and Azure services
+✅ Outcome Successfully demonstrated user identity management and group control within Microsoft Entra ID. This type of configuration is crucial for secure role assignments and access control across Microsoft 365 and Azure services.
