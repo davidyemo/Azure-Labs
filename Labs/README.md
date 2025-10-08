@@ -5,7 +5,7 @@ This lab demonstrates how to manage user identities and groups in Microsoft Entr
 Task 1: Create and configure user accounts.
 
 Created a new user and invited an external user. 
- ![image alt](https://github.com/dy1000/Lab-1---Manage-Microsoft-Entra-ID-Identities/raw/main/Files/Image%201%20-%20Lab1.png?raw=true)
+ ![image png](https://github.com/dy1000/Lab-1---Manage-Microsoft-Entra-ID-Identities/raw/main/Files/Image%201%20-%20Lab1.png?raw=true)
 
 ![image alt](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Files/Image%201%20-%20Lab1.png?raw=true)
 
