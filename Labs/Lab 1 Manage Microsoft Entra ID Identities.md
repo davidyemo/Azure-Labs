@@ -5,7 +5,7 @@ This lab demonstrates how to manage user identities and groups in Microsoft Entr
 Task 1: Create and configure user accounts.
 
 Created a new user and invited an external user. 
- ![Logo](https://github.com/dy1000/Lab-1---Manage-Microsoft-Entra-ID-Identities/raw/main/Files/Image%201%20-%20Lab1.png?raw=true)
+ ![Logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/Lab-Picture-1.png?raw=true)
 
 
 Task 2: Create groups and add members. Picture below demonstrates creating a security group called IT Project Administrators. 
