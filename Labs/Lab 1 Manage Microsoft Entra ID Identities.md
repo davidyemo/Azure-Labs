@@ -16,7 +16,7 @@ Task 2: Create groups and add members. Picture below demonstrates creating a sec
 
 Finalized group with both users added as members. 
 
-![image alt](https://github.com/dy1000/Lab-1---Manage-Microsoft-Entra-ID-Identities/blob/main/Files/Image%202%20-%20Lab1.png?raw=true)
+![image alt](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/Lab-Picture-3.png?raw=true)
 
 Tools & Concepts Used • Microsoft Entra ID • User identity lifecycle (Member & Guest) • Group and role-based access control (RBAC) • Security groups and membership assignment
 
