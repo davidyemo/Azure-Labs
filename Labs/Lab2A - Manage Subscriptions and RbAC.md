@@ -2,7 +2,9 @@ This lab focuses on role-based access control (RBAC) in Microsoft Entra ID and A
 
 Task 1: implement Management Groups
 Created a Management Group called projectaz-mg1
-Purpose is to organize Azure resources under a unified governance and access control hierarchy. ![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/Lab2-Pic1.png?raw=true)
+Purpose is to organize Azure resources under a unified governance and access control hierarchy. 
+
+![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/Lab2-Pic1.png?raw=true)
 
 Task 2: Review and assign a built in Azure role
 Assigned virtual machine contributor to the IT Project administrators group on the Access control (IAM) blade under the role assignments tab.
@@ -10,6 +12,7 @@ Assigned virtual machine contributor to the IT Project administrators group on t
 Task 3: Create a custom RBAC role
 
 Within the projectaz-mg1 management group in the Access control (IAM) blade I added a custom role called customer support request and assigned to the IT Project administrators group.
+
 ![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/Lab2-Pic3.png?raw=true)
 
 Task 4: Monitor role assignments with the activity log
