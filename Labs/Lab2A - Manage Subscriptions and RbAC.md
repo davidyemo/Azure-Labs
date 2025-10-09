@@ -10,7 +10,7 @@ Assigned virtual machine contributor to the IT Project administrators group on t
 Task 3: Create a custom RBAC role
 
 Within the projectaz-mg1 management group in the Access control (IAM) blade I added a custom role called customer support request and assigned to the IT Project administrators group.
-Image 3
+![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/Lab2-Pic3.png?raw=true)
 
 Task 4: Monitor role assignments with the activity log
 
