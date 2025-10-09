@@ -1,4 +1,4 @@
-<img width="2599" height="135" alt="image" src="https://github.com/user-attachments/assets/52a01c9d-5a93-42a7-9da1-c7c885b2644f" />Manage Azure resources by using Azure Resource Manager Templates
+
 
 Task 1: Create an Azure Resource Manager Template
 
