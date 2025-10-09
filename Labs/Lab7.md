@@ -1,7 +1,7 @@
 
 Task 1: Create and configure a storage account
 
-Created and configured a storage account with read access geo-redundant storage and no public access. Enabled access from my client IP, set a lifecycle rule to move blobs to cool storage after 30 days, and verified all settings.
+Created and configured a storage account with read access geo-redundant storage set a lifecycle rule to move blobs to cool storage after 30 days, and verified all settings.
 
 ![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/lab7-pic1.png?raw=true)
 
