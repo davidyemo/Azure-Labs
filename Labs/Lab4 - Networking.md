@@ -36,6 +36,9 @@ Then created a private DNS zone (private.contozino.com), linked it to Manufactur
 ![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/Lab4-Pic7.png?raw=true)
 ![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/Lab4-Pic8.png?raw=true)
 ![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/Lab4-Pic9.png?raw=true)
+
+Verified the host name www.contozino.com resolves to the IP address by checking in command prompt. The image bellow shows resolution is working correctly.
+
 ![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/Lab4-Pic10.png?raw=true)
 
 
