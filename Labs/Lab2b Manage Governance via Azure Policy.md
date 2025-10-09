@@ -1,3 +1,6 @@
+Lab 02b Manage Governance via Azure Policy
+
+
 This lab is focused on managing governance in Azure using tags, Azure policies, and resource locks. Below are the steps I followed, along with test results and outcomes.
 
 Task 1: Create and Assign Tags via the Azure Portal
