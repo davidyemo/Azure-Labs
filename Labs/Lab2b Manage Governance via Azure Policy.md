@@ -44,9 +44,6 @@ Lock test I attempted to delete the resource group Projectaz-rg2. The deletion f
 ![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/Lab2b-pic7.png)
 
  ✅ Lab Result: Success!
-All tasks were completed and verified successfully:
-	• Tags were created and enforced.
-	• Policies were applied and tested.
-	• Resources were protected with a lock.
+Tags were created and enforced, policies were applied and tested and resources were protected with a lock.
 
 
