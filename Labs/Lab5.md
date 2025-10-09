@@ -1,0 +1,48 @@
+Implement Intersite Connectivity
+
+Task 1: Create a core services virtual machine and a virtual network.
+
+Created CoreServicesVM in East US with CoreServicesVnet (10.0.0.0/16) and Core subnet (10.0.0.0/24).
+
+![logo]()
+
+Task 2: Create a virtual machine in a different virtual network.
+
+Deployed ManufacturingVM in ManufacturingVnet (172.16.0.0/16) with Manufacturing subnet (172.16.0.0/24).
+
+Task 3: Use Network Watcher to test the connection between virtual machines
+
+![logo]()
+![logo]()
+
+Used Connection Troubleshoot to test connectivity between both VMs result showed Unreachable as they were in separate networks.
+
+
+Task 4: Configure virtual network peerings between virtual networks
+
+![logo]()
+
+
+![logo]()
+
+Created peering between CoreServicesVnet and ManufacturingVnet; verified Connected status and confirmed communication via Network Watcher.
+
+![logo]()
+
+Task 5: Use Azure PowerShell to test the connection between virtual machines
+
+![logo]()
+
+Ran Test-NetConnection <CoreServicesVM IP> -Port 3389 from ManufacturingVM — test succeeded after peering setup.
+
+Task 6: Create a custom route
+
+Added perimeter subnet (10.0.1.0/24) and created route table rt-CoreServices with route to 10.0.0.0/16 via Network virtual appliance (10.0.1.7).
+Associated route table with Core subnet.
+
+![logo]()
+
+
+![logo]()
+
+
