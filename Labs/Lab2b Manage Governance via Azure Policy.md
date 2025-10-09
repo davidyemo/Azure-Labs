@@ -21,3 +21,14 @@ Policy Test:
 I attempted to create a storage account called projectstorageacc The deployment failed as expected because the tag cost center with the required value 000 was not included in the resource definition.
 
 ![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/Lab2b-pic4.png)
+
+Task 3: Apply Tagging via an Azure Policy
+
+I removed the previous policy and applied a new policy
+
+![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/Lab2b-pic5.png)
+
+Policy Test:
+I created another storage account named projectazsotrageaccount this time, the deployment succeeded and the storage account was automatically tagged as expected.
+
+![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/Lab2b-pic6.png)
