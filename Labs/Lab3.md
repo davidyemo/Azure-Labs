@@ -12,7 +12,7 @@ Task 2: Edit Azure Resource Manager template and then redeploy the template
 
 In the custom deployment I downloaded the template and parameter json files on to my local drive and edited the files and redeployed the temoate.
 
-As you can see in the image below two disks are now showing after deployment.
+As shown in the image below two disks are now showing after deployment.
 
 ![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/Lab3-pic2.png?raw=true)
 
