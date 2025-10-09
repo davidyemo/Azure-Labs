@@ -18,7 +18,7 @@ Within the projectaz-mg1 management group in the Access control (IAM) blade I ad
 Task 4: Monitor role assignments with the activity log
 
 I monitored role assignments by using the azure activity log to track role assignments, scope changes and custom role creation events to ensure actions performed by the IT project administratirs group adhered to restricted permissions.
-Image 5
+![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/Lab2-Pic5.png?raw=true)
 
 Tools & Concepts Used
 Microsoft Entra ID (Azure AD), Azure Management Groups, Role-Based Access Control (RBAC), Custom Role Definition  and Azure Activity Logs.
