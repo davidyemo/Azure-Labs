@@ -1,3 +1,4 @@
+Manage Azure resources by using Azure Resource Manager Templates
 
 
 Task 1: Create an Azure Resource Manager Template
