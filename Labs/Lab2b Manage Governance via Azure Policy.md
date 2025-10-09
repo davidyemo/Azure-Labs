@@ -32,3 +32,12 @@ Policy Test:
 I created another storage account named projectazsotrageaccount this time, the deployment succeeded and the storage account was automatically tagged as expected.
 
 ![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/Lab2b-pic6.png)
+
+Task 4: Configure and apply a resource lock 
+The goal here was to prevent accidental deletions or modifications. I created a lock named: rglock set Lock Type: Delete and scope: Projectaz-rg2
+
+Lock test I attempted to delete the resource group Projectaz-rg2. The deletion failed, as intended. Received error: "Delete resource group az 104-rg2 failed"
+
+![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/Lab2b-pic7.png)
+
+
