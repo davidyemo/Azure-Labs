@@ -1,3 +1,4 @@
+Lab_8 Manage Virtual Machines
 
 Task 1: Deploy VM in zone 1
 
