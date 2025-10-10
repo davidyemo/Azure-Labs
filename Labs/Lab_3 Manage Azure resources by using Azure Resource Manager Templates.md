@@ -3,7 +3,7 @@ Manage Azure resources by using Azure Resource Manager Templates
 
 Task 1: Create an Azure Resource Manager Template
 
-I created a managed disk in the Azure portal. Managed disks are storage designed to be used with virtual machines. Once the disk is deployed I exported a template that I can use in other deployments.
+Created a managed disk in the Azure portal. Managed disks are storage designed to be used with virtual machines. Once the disk is deployed I exported a template that I can use in other deployments.
 Managed Disk created with 32 Gib created.
 
 ![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/Lab3-pic1.png?raw=true)
