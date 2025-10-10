@@ -1,5 +1,7 @@
 Lab_11 Implement Monitoring
 
+This lab focused on monitoring Azure resources by configuring alerts, action groups, and log analysis for virtual machines.
+
 Task 1: Use a Template to Provision an Infrastructure
 
 Deployed a virtual machine and virtual network using an ARM template, then configured Azure Monitor and enabled VM Insights to monitor the VM.
