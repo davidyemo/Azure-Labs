@@ -1,3 +1,4 @@
+Lab_7 Manage Azure Storage
 
 Task 1: Create and configure a storage account
 
