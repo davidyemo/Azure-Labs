@@ -1,5 +1,6 @@
 Lab_4- Implement Virtual Networking
 
+This lab focused on creating and managing Azure virtual networks, subnets, and DNS zones to enable secure and efficient communication between resources.
 
 Task 1: Create a Virtual Network with Subnets using the Portal
 
