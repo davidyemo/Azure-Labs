@@ -1,6 +1,8 @@
 Lab_2 Manage Subscriptions and RBAC
 
-This lab focuses on role-based access control (RBAC) in Microsoft Entra ID and Azure. It includes creating and assigning both built-in and custom roles to a group at the management group level, and monitoring activity through the Azure Activity Log. The goal is to enforce principle of least privilege while enabling the IT Helpdesk to operate effectively within the defined boundaries.
+This lab focuses on role-based access control (RBAC) in Microsoft Entra ID and Azure. It includes creating and assigning both built in and custom roles to a group at the management group level, and monitoring activity through the Azure Activity Log. 
+
+The goal is to enforce principle of least privilege while enabling the IT Helpdesk to operate effectively within the defined boundaries.
 
 Task 1: implement Management Groups
 Created a Management Group called projectaz-mg1
