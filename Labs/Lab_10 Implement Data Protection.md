@@ -1,3 +1,5 @@
+Lab_10 Implement Data Protection
+
 Task 1: Use a Template to Provision an Infrastructure
 
 Deployed a virtual machine and virtual network in Azure using a custom ARM template and parameter file to create a test environment for backup and recovery.
