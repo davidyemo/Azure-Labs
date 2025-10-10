@@ -1,5 +1,7 @@
 Lab_9b Implement Azure Container Instances
 
+This lab focused on deploying and managing Azure Container Instances (ACI) using a Docker image to run containerized applications.
+
 Task 1: Deploy an Azure Container Instance using a Docker image
 
 An Azure Container Instance was deployed using the Docker image `mcr.microsoft.com/azuredocs/aci-helloworld:latest` in the East US region under the resource group `az104-rg9` with the container name `az104-c1`. 
