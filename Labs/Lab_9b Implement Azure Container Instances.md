@@ -1,4 +1,4 @@
-Azure Container Instance Deployment
+Lab_9b Implement Azure Container Instances
 
 Task 1: Deploy an Azure Container Instance using a Docker image
 
