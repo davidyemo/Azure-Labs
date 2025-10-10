@@ -1,5 +1,7 @@
 Lab_7 Manage Azure Storage
 
+This lab focused on configuring and securing Azure storage solutions for blobs and file shares.
+
 Task 1: Create and configure a storage account
 
 Created and configured a storage account with read access geo-redundant storage set a lifecycle rule to move blobs to cool storage after 30 days and verified all settings.
