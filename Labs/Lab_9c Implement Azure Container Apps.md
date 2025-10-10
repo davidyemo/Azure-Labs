@@ -1,5 +1,7 @@
 Lab_9c Implement Azure Container Apps
 
+This lab focused on deploying and managing Azure Container Apps to run scalable containerized applications in a managed environment.
+
 Task 1: Create and Configure an Azure Container App and Environment
 
 An Azure Container App named `my-app` was created in the East US region under the resource group `az104-rg9`. A new Container Apps Environment named `my-environment` was also created. The deployment used the quickstart image “Simple hello world container” to initialize the app. After configuration, the app was reviewed and deployed successfully in the Azure portal.
