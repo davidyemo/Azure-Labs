@@ -1,5 +1,7 @@
 Lab_5 Implement Intersite Connectivity
 
+This lab focused on establishing and managing connectivity between Azure virtual networks to enable secure communication across sites.
+
 Task 1: Create a core services virtual machine and a virtual network.
 
 Created CoreServicesVM in East US with CoreServicesVnet (10.0.0.0/16) and Core subnet (10.0.0.0/24).
