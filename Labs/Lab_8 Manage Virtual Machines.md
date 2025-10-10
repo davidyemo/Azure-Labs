@@ -1,5 +1,7 @@
 Lab_8 Manage Virtual Machines
 
+This lab focused on deploying, scaling, and managing Azure virtual machines and scale sets to ensure high availability and performance.
+
 Task 1: Deploy VM in zone 1
 
 Deployed VM in the East US region using the Azure portal placing one VM in Availability Zone 1 to ensure high availability.
