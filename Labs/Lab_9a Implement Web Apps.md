@@ -1,5 +1,7 @@
 Lab_9a Implement Web Apps
 
+This lab focused on creating, configuring, and managing Azure Web Apps to enable staged deployment and continuous integration.
+
 Task 1: Create and Configure Web App
 
 An Azure Web App was created using PHP 8.2 on Linux in the East US region with a Premium V3 P1V3 plan under the resource group `az104-rg9`.  
