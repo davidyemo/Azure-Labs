@@ -37,8 +37,8 @@ Created an alert processing rule to suppress notifications during overnight main
 
 Task 6: Use Azure Monitor Log Queries
 
-![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/lab11-pic9.png)
-
 Used KQL queries in Azure Monitor Logs to analyze VM heartbeat data and visualize performance metrics over time.
 
-![logo]()
+![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/lab11-pic9.png)
+
+
