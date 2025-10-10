@@ -1,5 +1,6 @@
 Manage Azure resources by using Azure Resource Manager Templates
 
+This lab focused on deploying and managing Azure resources using through ARM templates, PowerShell, CLI, and Bicep.
 
 Task 1: Create an Azure Resource Manager Template
 
