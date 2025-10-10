@@ -1,4 +1,4 @@
-Azure Container App Deployment
+Lab_9c Implement Azure Container Apps
 
 Task 1: Create and Configure an Azure Container App and Environment
 
