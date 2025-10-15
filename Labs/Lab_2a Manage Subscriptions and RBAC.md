@@ -1,4 +1,4 @@
-Lab_2 Manage Subscriptions and RBAC
+Manage Subscriptions and RBAC
 
 This lab focuses on role-based access control (RBAC) in Microsoft Entra ID and Azure. It includes creating and assigning both built in and custom roles to a group at the management group level, and monitoring activity through the Azure Activity Log. 
 
