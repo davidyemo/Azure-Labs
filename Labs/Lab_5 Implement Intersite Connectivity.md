@@ -17,7 +17,7 @@ Task 3: Use Network Watcher to test the connection between virtual machines
 ![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/lab5-pic2.png?raw=true)
 ![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/lab5-pic3.png?raw=true)
 
-Used Connection Troubleshoot to test connectivity between both VMs result in connectivity test showed Unreachable as they were in separate networks.
+Used Connection Troubleshoot to test connectivity between both VMs result in connectivity test showed unreachable as the VNETS were in separate networks.
 
 
 Task 4: Configure virtual network peerings between virtual networks
