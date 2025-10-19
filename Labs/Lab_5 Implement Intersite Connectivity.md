@@ -1,4 +1,4 @@
-Lab_5 Implement Intersite Connectivity
+Implement Intersite Connectivity
 
 This lab focused on establishing and managing connectivity between Azure virtual networks to enable secure communication across sites.
 
