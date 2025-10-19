@@ -47,5 +47,5 @@ Associated route table with Core subnet.
 
 ![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/lab5-pic9.png?raw=true)
 
-##Outcome
+## Outcome
 ✅ Result: Intersite connectivity between VNets was fully established and verified, demonstrating effective cross-network communication and routing control in Azure.
