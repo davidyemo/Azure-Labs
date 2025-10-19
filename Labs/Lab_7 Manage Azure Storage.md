@@ -1,8 +1,8 @@
-Lab_7 Manage Azure Storage
+## Manage Azure Storage
 
 This lab focused on configuring and securing Azure storage solutions for blobs and file shares.
 
-Task 1: Create and configure a storage account
+## Task 1: Create and configure a storage account
 
 Created and configured a storage account with read access geo-redundant storage set a lifecycle rule to move blobs to cool storage after 30 days and verified all settings.
 
@@ -10,7 +10,7 @@ Created and configured a storage account with read access geo-redundant storage 
 
 ![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/lab7-pic2.png?raw=true)
 
-Task 2: Create and configure secure blob storage
+## Task 2: Create and configure secure blob storage
 
 Created a private blob container with a 180-day time-based retention policy. Uploaded a file, confirmed public access was blocked, and generated a SAS URL to allow temporary read-only access.
 
@@ -21,10 +21,7 @@ Created a private blob container with a 180-day time-based retention policy. Upl
 
 ![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/lab7-pic5.png?raw=true)
 
-
-
-
-Task 3: Create and configure secure Azure file storage
+## Task 3: Create and configure secure Azure file storage
 
 Created an Azure file share and uploaded a file through Storage Browser. Configured the storage account to allow access only from a virtual network and verified the restriction with an access error message.
 
