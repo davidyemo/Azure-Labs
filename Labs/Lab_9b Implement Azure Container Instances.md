@@ -13,5 +13,5 @@ The container instance was verified to be running in the Azure portal. The fully
 
 ![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/lab9b-pic2.png?raw=true)
 
-## Outcome
+## Outcome ✅
 The Azure Container Instance is successfully deployed and accessible publicly  with verification confirming the container is running and serving the sample web application.
