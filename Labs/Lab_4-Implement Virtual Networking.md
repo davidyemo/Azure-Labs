@@ -46,5 +46,5 @@ Verified the host name www.contozino.com resolves to the IP address by checking 
 
 ## Outcome 
 
-✅ Result: The lab successfully demonstrated how to design, deploy, and manage Azure virtual networks, subnets, and DNS zones to establish secure and efficient network communication between Azure resources.
+✅ Result: Achieved a functional and secure virtual network environment in Azure demonstrating effective implementation of VNets, subnets, ASGs, NSGs, and DNS zones.
 
