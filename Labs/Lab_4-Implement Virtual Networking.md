@@ -1,8 +1,8 @@
-Lab_4- Implement Virtual Networking
+## Implement Virtual Networking
 
 This lab focused on creating and managing Azure virtual networks, subnets, and DNS zones to enable secure and efficient communication between resources.
 
-Task 1: Create a Virtual Network with Subnets using the Portal
+## Task 1: Create a Virtual Network with Subnets using the Portal
 
 
 Created a virtual network named CoreServicesVnet in the East US region with the address space 10.20.0.0/16, and configured two subnets — SharedServicesSubnet (10.20.10.0/24) and DatabaseSubnet (10.20.20.0/24). 
@@ -11,7 +11,7 @@ Exported and downloaded the deployment template (template.json) for future use.
 ![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/Lab4-Pic1.png?raw=true)
 
 
-Task 2: Create a Virtual Network and Subnets using a Template
+## Task 2: Create a Virtual Network and Subnets using a Template
 
 
 Modified the exported template.json and parameters.json files to define a new virtual network ManufacturingVnet (10.30.0.0/16) with SensorSubnet1 (10.30.20.0/24) and SensorSubnet2 (10.30.21.0/24). 
@@ -20,7 +20,7 @@ Deployed the customized ARM template in Azure to create the new network and veri
 ![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/Lab4-Pic2.png?raw=true)
 ![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/Lab4-Pic3.png?raw=true)
 
-Task 3: Create and configure communication between an Application Security Group and a Network Security Group.
+## Task 3: Create and configure communication between an Application Security Group and a Network Security Group.
 
 
 Created an Application Security Group (asg-web) and a Network Security Group (myNSGSecure) associated with the SharedServicesSubnet in CoreServicesVnet. 
@@ -30,7 +30,7 @@ Configured an inbound NSG rule to allow TCP traffic (ports 80, 443) from the ASG
 ![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/Lab4-Pic5.png?raw=true)
 ![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/Lab4-Pic6.png?raw=true)
 
-Task 4: Configure Public and Private Azure DNS Zones
+## Task 4: Configure Public and Private Azure DNS Zones
 
 
 Created a public DNS zone (contozino.com) with an A record (www.contozino.com → 10.1.1.4) to verify external name resolution. 
@@ -44,5 +44,7 @@ Verified the host name www.contozino.com resolves to the IP address by checking 
 
 ![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/Lab4-Pic10.png?raw=true)
 
+## Outcome 
 
+✅ Result: The lab successfully demonstrated how to design, deploy, and manage Azure virtual networks, subnets, and DNS zones to establish secure and efficient network communication between Azure resources.
 
