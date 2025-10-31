@@ -6,7 +6,7 @@ This lab focused on establishing and managing connectivity between Azure virtual
 
 Created CoreServicesVM in East US with CoreServicesVnet (10.0.0.0/16) and Core subnet (10.0.0.0/24).
 
-![logo](https://github.com/dy1000/Azure-Administrator-AZ-104-Labs/blob/main/Labs/All-Files/lab5-pic1.png?raw=true)
+![logo](https://github.com/davidyemo/Azure-Labs/blob/main/Labs/All-Files/lab5-pic1.png?raw=true)
 
 
 ## Task 2: Create a virtual machine in a different virtual network.
